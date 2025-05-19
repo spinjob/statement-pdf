@@ -1,0 +1,9 @@
+streamlit
+pdf2image
+ollama
+Pillow
+PyMuPDF 
+pymupdf4llm
+pandas
+Markdown
+lxml
